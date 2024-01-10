@@ -91,8 +91,6 @@ def main():
             
             data.append(prompt_data)
     
-    print(data)
-    
     saved_video = generate_video(video_data=data, output='output')
     
     print(f'Saved output video to {str(saved_video)}')
