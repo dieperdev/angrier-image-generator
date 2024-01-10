@@ -1,0 +1,9 @@
+{
+    "__comment": "You can put things that will be used to make scarier. The script will choose randomly from the list below.",
+    "items": [
+        "gummy bear",
+        "gingerbread cookie",
+        "cat",
+        "dog"
+    ]
+}

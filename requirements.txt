@@ -1,0 +1,8 @@
+openai==1.6.1
+pillow==10.1.0
+moviepy==1.0.3
+elevenlabs==0.2.27
+gTTS==2.5.0
+yt-dlp==2023.12.30
+pydub==0.25.1
+python-dotenv==1.0.0

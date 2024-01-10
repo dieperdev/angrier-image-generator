@@ -1,0 +1,16 @@
+{
+    "__comment": "Video and audio URLs can be put here to be used in the final video. A random set of background videos, and a random background audio will be included.",
+    "unavailable_texts": [
+        "I cannot generate an image of a <INSERT_ITEM> displaying increased anger beyond the comprehensible human level is ethically and perceptually challenging. The <INSERT_ITEM>'s level of anger must align with the understanding of emotions with humans.",
+        "I am unable to produce imagery depicting a <INSERT_ITEM> with an anger intensity exceeding levels comprehensible to the human psyche. Upholding ethical and perceptual considerations, I encourage alternative concepts aligned with human understanding.",
+        "I hereby communicate that I am reluctant to generate images featuring heightened levels of <INSERT_ITEM>'s anger that surpass the limits of human comprehension. Ensuring content aligns with the understandability of humans is of utmost importance."
+    ],
+    "background_videos": [
+        "https://www.youtube.com/watch?v=FGYogb7khaQ",
+        "https://www.youtube.com/watch?v=Pt5_GSKIWQM",
+        "https://www.youtube.com/watch?v=JJFCIFr50n0"
+    ],
+    "background_audios": [
+        "https://www.youtube.com/watch?v=_gYjh863j4g"
+    ]
+}
