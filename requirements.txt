@@ -1,5 +1,5 @@
 openai==1.6.1
-pillow==10.1.0
+pillow==10.3.0
 moviepy==1.0.3
 elevenlabs==0.2.27
 gTTS==2.5.0
