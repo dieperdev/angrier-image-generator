@@ -3,6 +3,6 @@ pillow==10.3.0
 moviepy==1.0.3
 elevenlabs==0.2.27
 gTTS==2.5.0
-yt-dlp==2024.4.9
+yt-dlp==2024.7.1
 pydub==0.25.1
 python-dotenv==1.0.0
